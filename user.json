@@ -1,19 +1,23 @@
 {
-  "users": [
-    {
-      "username": "demo",
-      "password": "demo123",
-      "hwid": [],
-      "expiry": "2025-12-31"
-    }
-  ],
-  "resellers": {
-    "123456789012345678": 3
-  },
-  "keys": [
-    {
-      "key": "ABCDEF123456",
-      "expiry": "2025-12-31"
-    }
-  ]
+    "users": [
+        {
+            "username": "demo",
+            "password": "demo123",
+            "hwid": [],
+            "expiry": "2025-12-31"
+        }
+    ],
+    "resellers": {
+        "123456789012345678": 3
+    },
+    "keys": [
+        {
+            "key": "ABCDEF123456",
+            "expiry": "2025-12-31"
+        },
+        {
+            "key": "J47ER9B86DCZVMMZ",
+            "expiry": "2025-07-25"
+        }
+    ]
 }
