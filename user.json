@@ -5,6 +5,12 @@
             "password": "demo123",
             "hwid": [],
             "expiry": "2025-12-31"
+        },
+        {
+            "username": "vv",
+            "password": "22",
+            "hwid": [],
+            "expiry": "2025-07-25"
         }
     ],
     "resellers": {
