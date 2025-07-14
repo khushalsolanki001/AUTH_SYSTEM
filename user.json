@@ -23,6 +23,12 @@
             "password": "1234",
             "hwid": [],
             "expiry": "2025-08-13"
+        },
+        {
+            "username": "vb",
+            "password": "1",
+            "hwid": [],
+            "expiry": "2025-07-25"
         }
     ],
     "resellers": {
