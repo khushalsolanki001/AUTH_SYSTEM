@@ -1,5 +1,12 @@
 {
-    "users": [],
+    "users": [
+        {
+            "username": "vv",
+            "password": "22",
+            "hwid": [],
+            "expiry": "2025-07-25"
+        }
+    ],
     "resellers": {
         "123456789012345678": 3
     },
