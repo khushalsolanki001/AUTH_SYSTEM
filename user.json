@@ -17,6 +17,12 @@
             "password": "pass12345678",
             "hwid": [],
             "expiry": "2025-08-13"
+        },
+        {
+            "username": "test1",
+            "password": "1234",
+            "hwid": [],
+            "expiry": "2025-08-13"
         }
     ],
     "resellers": {
