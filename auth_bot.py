@@ -8,9 +8,9 @@ import string
 from datetime import datetime, timedelta, timezone
 
 # ========== CONFIG ==========
-TOKEN = 'MTM5NDIwMDEwMjEwODY2Mzg1MQ.GbYH-G.HqrZIfHrB6j1wGu1wnh7IA3luXnS_a_vM0c5tQ'
-GITHUB_TOKEN = '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'
-GITHUB_USERNAME = 'khushalsolanki001'
+TOKEN = ''
+GITHUB_TOKEN = ''
+GITHUB_USERNAME = ''
 GITHUB_REPO = 'AUTH_SYSTEM'
 FILE_PATH = 'user.json'
 ALLOWED_CHANNEL_ID = 1394199782964203610
