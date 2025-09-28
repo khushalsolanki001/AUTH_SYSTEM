@@ -9,8 +9,8 @@ from datetime import datetime, timedelta, timezone
 
 # ========== CONFIG ==========
 TOKEN = ''
-GITHUB_TOKEN = ''
-GITHUB_USERNAME = ''
+GITHUB_TOKEN = '' //use here github token
+GITHUB_USERNAME = '' //use your github username
 GITHUB_REPO = 'AUTH_SYSTEM'
 FILE_PATH = 'user.json'
 ALLOWED_CHANNEL_ID = 1394199782964203610
