@@ -1,3 +1,4 @@
+#it was for AUTH using github and discord
 import discord
 from discord.ext import commands
 import requests
@@ -13,9 +14,9 @@ GITHUB_TOKEN = '' //use here github token
 GITHUB_USERNAME = '' //use your github username
 GITHUB_REPO = 'AUTH_SYSTEM'
 FILE_PATH = 'user.json'
-ALLOWED_CHANNEL_ID = 1394199782964203610
-LOG_CHANNEL_ID = 1394199816271302697
-OWNER_ID = 1219723803916107959
+ALLOWED_CHANNEL_ID = 
+LOG_CHANNEL_ID = 
+OWNER_ID = 
 
 API_URL = f"https://api.github.com/repos/{GITHUB_USERNAME}/{GITHUB_REPO}/contents/{FILE_PATH}"
 HEADERS = {
