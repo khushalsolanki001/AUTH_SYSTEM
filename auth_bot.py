@@ -14,9 +14,9 @@ GITHUB_TOKEN = '' //use here github token
 GITHUB_USERNAME = '' //use your github username
 GITHUB_REPO = 'AUTH_SYSTEM'
 FILE_PATH = 'user.json'
-ALLOWED_CHANNEL_ID = 
-LOG_CHANNEL_ID = 
-OWNER_ID = 
+ALLOWED_CHANNEL_ID =  //use here channel ID
+LOG_CHANNEL_ID = //for log
+OWNER_ID = //it was for owner ID
 
 API_URL = f"https://api.github.com/repos/{GITHUB_USERNAME}/{GITHUB_REPO}/contents/{FILE_PATH}"
 HEADERS = {
